@@ -1,1 +1,1 @@
-# ETH_Zurich_VSCode_on_Euler
+# Script to use VSCode on the ETH Zürich Euler cluster
