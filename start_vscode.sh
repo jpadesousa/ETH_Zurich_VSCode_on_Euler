@@ -248,7 +248,7 @@ else
 fi
 
 # set modules
-VSC_MODULE_COMMAND="gcc/6.3.0 code-server/4.8.0 eth_proxy r/4.1.3 python/3.8.5 julia/1.7.3 radian cairo zlib"
+VSC_MODULE_COMMAND="gcc/6.3.0 code-server/4.10.0 eth_proxy r/4.2.2 python/3.8.5 julia/1.8.5 radian cairo zlib"
 
 # check if VSC_SSH_KEY_PATH is empty or contains a valid path
 if [ -z "$VSC_SSH_KEY_PATH" ]; then
